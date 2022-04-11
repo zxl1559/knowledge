@@ -1,0 +1,7 @@
+site_name: 中晟信达知识库
+docs_dir: source
+extra_css:
+    - style.css
+theme:
+    name: mkdocs
+    custom_dir: theme-override/
